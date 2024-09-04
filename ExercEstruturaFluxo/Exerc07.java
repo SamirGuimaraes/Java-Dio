@@ -9,6 +9,7 @@
  * escrever: “MAIOR”, se o número do usuário for maior que
  * o oculto, escrever: “MENOR”.
  * 
+ * 
  */
 
 package ExercEstruturaFluxo;
@@ -43,6 +44,8 @@ public class Exerc07 {
         sc.close();
 
         System.out.println("Parabéns! Você e o computador escolher o número: " +numEscolhido);
+
+        
 
     }
 }
